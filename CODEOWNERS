@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @RICH-KEED
+/src/backend/database.py      @RICH-KEED
+/src/backend/routers/auth.py  @RICH-KEED
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @RICH-KEED
